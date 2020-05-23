@@ -17,5 +17,5 @@ function* userRepo(user, repoNumber) {
     console.log(repos[repoNumber].name)
 }
 
-let apiGen = userRepo('miraclechris', 0)
+let apiGen = userRepo('miraclechris', 1)
 apiGen.next()
