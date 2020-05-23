@@ -1,0 +1,8 @@
+{
+  "name": "javascript_learning",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
